@@ -1,0 +1,11 @@
+[init]
+  defaultBranch = master
+
+[push]
+	default = current
+
+[pull]
+  ff = only
+
+[diff]
+  algorithm = histogram
